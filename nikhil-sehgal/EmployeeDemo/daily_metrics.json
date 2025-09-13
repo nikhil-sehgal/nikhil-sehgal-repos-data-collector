@@ -1,46 +1,39 @@
 {
   "2025": {
-    "2025-09-12": {
+    "2025-09-13": {
       "views": 5,
       "unique_visitors": 3,
-      "clones": 5,
-      "unique_cloners": 5,
-      "timestamp": "2025-09-12T09:21:45.511321+00:00"
+      "clones": 4,
+      "unique_cloners": 4,
+      "timestamp": "2025-09-13T09:19:06.129339+00:00"
     },
     "2025-09-06": {
       "views": 1,
       "unique_visitors": 1,
       "clones": 0,
       "unique_cloners": 0,
-      "timestamp": "2025-09-12T09:21:46.715742+00:00"
+      "timestamp": "2025-09-13T09:19:07.302801+00:00"
     },
     "2025-09-07": {
       "views": 3,
       "unique_visitors": 2,
       "clones": 1,
       "unique_cloners": 1,
-      "timestamp": "2025-09-12T09:21:46.716265+00:00"
+      "timestamp": "2025-09-13T09:19:07.303354+00:00"
     },
     "2025-09-08": {
       "views": 1,
       "unique_visitors": 1,
       "clones": 1,
       "unique_cloners": 1,
-      "timestamp": "2025-09-12T09:21:46.716786+00:00"
-    },
-    "2025-08-29": {
-      "views": 0,
-      "unique_visitors": 0,
-      "clones": 1,
-      "unique_cloners": 1,
-      "timestamp": "2025-09-12T09:21:46.717165+00:00"
+      "timestamp": "2025-09-13T09:19:07.304153+00:00"
     },
     "2025-09-04": {
       "views": 0,
       "unique_visitors": 0,
       "clones": 2,
       "unique_cloners": 2,
-      "timestamp": "2025-09-12T09:21:46.717525+00:00"
+      "timestamp": "2025-09-13T09:19:07.304589+00:00"
     }
   }
 }
