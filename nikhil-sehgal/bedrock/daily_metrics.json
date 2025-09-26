@@ -1,67 +1,67 @@
 {
   "2025": {
-    "2025-09-25": {
-      "views": 53,
-      "unique_visitors": 9,
-      "clones": 9,
-      "unique_cloners": 9,
-      "timestamp": "2025-09-25T09:23:19.799982+00:00"
+    "09-26": {
+      "views": 50,
+      "unique_visitors": 8,
+      "clones": 8,
+      "unique_cloners": 8,
+      "timestamp": "2025-09-26T09:23:27.667008+00:00"
     },
-    "2025-09-11": {
-      "views": 3,
-      "unique_visitors": 1,
-      "clones": 1,
-      "unique_cloners": 1,
-      "timestamp": "2025-09-25T09:23:20.941619+00:00"
-    },
-    "2025-09-13": {
+    "09-13": {
       "views": 15,
       "unique_visitors": 3,
       "clones": 2,
       "unique_cloners": 2,
-      "timestamp": "2025-09-25T09:23:20.942162+00:00"
+      "timestamp": "2025-09-26T09:23:28.492184+00:00"
     },
-    "2025-09-14": {
+    "09-14": {
       "views": 7,
       "unique_visitors": 1,
       "clones": 0,
       "unique_cloners": 0,
-      "timestamp": "2025-09-25T09:23:20.942622+00:00"
+      "timestamp": "2025-09-26T09:23:28.492135+00:00"
     },
-    "2025-09-15": {
+    "09-15": {
       "views": 14,
       "unique_visitors": 2,
       "clones": 3,
       "unique_cloners": 3,
-      "timestamp": "2025-09-25T09:23:20.943108+00:00"
+      "timestamp": "2025-09-26T09:23:28.492195+00:00"
     },
-    "2025-09-24": {
+    "09-24": {
       "views": 7,
       "unique_visitors": 1,
       "clones": 0,
       "unique_cloners": 0,
-      "timestamp": "2025-09-25T09:23:20.943588+00:00"
+      "timestamp": "2025-09-26T09:23:28.492160+00:00"
     },
-    "2025-09-16": {
+    "09-25": {
+      "views": 7,
+      "unique_visitors": 1,
+      "clones": 0,
+      "unique_cloners": 0,
+      "timestamp": "2025-09-26T09:23:28.492171+00:00"
+    },
+    "09-16": {
       "views": 0,
       "unique_visitors": 0,
       "clones": 1,
       "unique_cloners": 1,
-      "timestamp": "2025-09-25T09:23:20.945093+00:00"
+      "timestamp": "2025-09-26T09:23:28.492207+00:00"
     },
-    "2025-09-17": {
+    "09-17": {
       "views": 0,
       "unique_visitors": 0,
       "clones": 1,
       "unique_cloners": 1,
-      "timestamp": "2025-09-25T09:23:20.945417+00:00"
+      "timestamp": "2025-09-26T09:23:28.492218+00:00"
     },
-    "2025-09-19": {
+    "09-19": {
       "views": 0,
       "unique_visitors": 0,
       "clones": 1,
       "unique_cloners": 1,
-      "timestamp": "2025-09-25T09:23:20.945784+00:00"
+      "timestamp": "2025-09-26T09:23:28.492229+00:00"
     }
   }
 }
