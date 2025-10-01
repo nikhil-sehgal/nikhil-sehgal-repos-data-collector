@@ -1,32 +1,18 @@
 {
   "2025": {
-    "09-30": {
+    "10-01": {
       "views": 1,
       "unique_visitors": 1,
-      "clones": 2,
-      "unique_cloners": 2,
-      "timestamp": "2025-09-30T09:23:18.034089+00:00"
+      "clones": 0,
+      "unique_cloners": 0,
+      "timestamp": "2025-10-01T09:23:55.212941+00:00"
     },
     "09-28": {
       "views": 1,
       "unique_visitors": 1,
       "clones": 0,
       "unique_cloners": 0,
-      "timestamp": "2025-09-30T09:23:19.126916+00:00"
-    },
-    "09-16": {
-      "views": 0,
-      "unique_visitors": 0,
-      "clones": 1,
-      "unique_cloners": 1,
-      "timestamp": "2025-09-30T09:23:19.126961+00:00"
-    },
-    "09-17": {
-      "views": 0,
-      "unique_visitors": 0,
-      "clones": 1,
-      "unique_cloners": 1,
-      "timestamp": "2025-09-30T09:23:19.126976+00:00"
+      "timestamp": "2025-10-01T09:23:56.073020+00:00"
     }
   }
 }
