@@ -1,67 +1,60 @@
 {
   "2025": {
-    "10-13": {
-      "views": 34,
-      "unique_visitors": 6,
-      "clones": 6,
-      "unique_cloners": 6,
-      "timestamp": "2025-10-13T09:26:33.630194+00:00"
-    },
-    "09-29": {
-      "views": 7,
-      "unique_visitors": 1,
-      "clones": 1,
-      "unique_cloners": 1,
-      "timestamp": "2025-10-13T09:26:34.516022+00:00"
+    "10-14": {
+      "views": 27,
+      "unique_visitors": 5,
+      "clones": 5,
+      "unique_cloners": 5,
+      "timestamp": "2025-10-14T09:24:15.650784+00:00"
     },
     "09-30": {
       "views": 7,
       "unique_visitors": 2,
       "clones": 2,
       "unique_cloners": 2,
-      "timestamp": "2025-10-13T09:26:34.516029+00:00"
+      "timestamp": "2025-10-14T09:24:16.869300+00:00"
     },
     "10-01": {
       "views": 7,
       "unique_visitors": 1,
       "clones": 0,
       "unique_cloners": 0,
-      "timestamp": "2025-10-13T09:26:34.516002+00:00"
+      "timestamp": "2025-10-14T09:24:16.869275+00:00"
     },
     "10-06": {
       "views": 12,
       "unique_visitors": 1,
       "clones": 0,
       "unique_cloners": 0,
-      "timestamp": "2025-10-13T09:26:34.516009+00:00"
+      "timestamp": "2025-10-14T09:24:16.869284+00:00"
     },
     "10-07": {
       "views": 1,
       "unique_visitors": 1,
       "clones": 0,
       "unique_cloners": 0,
-      "timestamp": "2025-10-13T09:26:34.516015+00:00"
+      "timestamp": "2025-10-14T09:24:16.869292+00:00"
     },
     "10-03": {
       "views": 0,
       "unique_visitors": 0,
       "clones": 1,
       "unique_cloners": 1,
-      "timestamp": "2025-10-13T09:26:34.516034+00:00"
+      "timestamp": "2025-10-14T09:24:16.869306+00:00"
     },
     "10-04": {
       "views": 0,
       "unique_visitors": 0,
       "clones": 1,
       "unique_cloners": 1,
-      "timestamp": "2025-10-13T09:26:34.516041+00:00"
+      "timestamp": "2025-10-14T09:24:16.869333+00:00"
     },
     "10-10": {
       "views": 0,
       "unique_visitors": 0,
       "clones": 1,
       "unique_cloners": 1,
-      "timestamp": "2025-10-13T09:26:34.516047+00:00"
+      "timestamp": "2025-10-14T09:24:16.869347+00:00"
     }
   }
 }
