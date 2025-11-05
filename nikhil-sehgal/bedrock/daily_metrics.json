@@ -1,60 +1,53 @@
 {
   "2025": {
-    "11-04": {
+    "11-05": {
       "views": 3,
       "unique_visitors": 2,
-      "clones": 6,
-      "unique_cloners": 6,
-      "timestamp": "2025-11-04T09:26:01.016911+00:00"
+      "clones": 5,
+      "unique_cloners": 5,
+      "timestamp": "2025-11-05T09:26:07.010851+00:00"
     },
     "10-23": {
       "views": 1,
       "unique_visitors": 1,
       "clones": 1,
       "unique_cloners": 1,
-      "timestamp": "2025-11-04T09:26:01.996871+00:00"
+      "timestamp": "2025-11-05T09:26:08.054102+00:00"
     },
     "10-28": {
       "views": 2,
       "unique_visitors": 1,
       "clones": 0,
       "unique_cloners": 0,
-      "timestamp": "2025-11-04T09:26:01.996840+00:00"
-    },
-    "10-21": {
-      "views": 0,
-      "unique_visitors": 0,
-      "clones": 1,
-      "unique_cloners": 1,
-      "timestamp": "2025-11-04T09:26:01.996857+00:00"
+      "timestamp": "2025-11-05T09:26:08.054062+00:00"
     },
     "10-29": {
       "views": 0,
       "unique_visitors": 0,
       "clones": 1,
       "unique_cloners": 1,
-      "timestamp": "2025-11-04T09:26:01.996884+00:00"
+      "timestamp": "2025-11-05T09:26:08.054115+00:00"
     },
     "10-30": {
       "views": 0,
       "unique_visitors": 0,
       "clones": 1,
       "unique_cloners": 1,
-      "timestamp": "2025-11-04T09:26:01.996897+00:00"
+      "timestamp": "2025-11-05T09:26:08.054128+00:00"
     },
     "11-01": {
       "views": 0,
       "unique_visitors": 0,
       "clones": 1,
       "unique_cloners": 1,
-      "timestamp": "2025-11-04T09:26:01.996911+00:00"
+      "timestamp": "2025-11-05T09:26:08.054140+00:00"
     },
     "11-02": {
       "views": 0,
       "unique_visitors": 0,
       "clones": 1,
       "unique_cloners": 1,
-      "timestamp": "2025-11-04T09:26:01.996927+00:00"
+      "timestamp": "2025-11-05T09:26:08.054151+00:00"
     }
   }
 }
