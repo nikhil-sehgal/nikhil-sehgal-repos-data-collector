@@ -1,32 +1,39 @@
 {
   "2025": {
+    "11-08": {
+      "views": 5,
+      "unique_visitors": 3,
+      "clones": 1,
+      "unique_cloners": 1,
+      "timestamp": "2025-11-08T09:20:21.547240+00:00"
+    },
     "11-07": {
       "views": 4,
       "unique_visitors": 2,
-      "clones": 3,
-      "unique_cloners": 3,
-      "timestamp": "2025-11-07T09:23:57.172688+00:00"
+      "clones": 0,
+      "unique_cloners": 0,
+      "timestamp": "2025-11-08T09:20:21.547172+00:00"
     },
     "10-28": {
       "views": 0,
       "unique_visitors": 0,
       "clones": 1,
       "unique_cloners": 1,
-      "timestamp": "2025-11-07T09:23:57.172719+00:00"
+      "timestamp": "2025-11-08T09:20:21.547204+00:00"
     },
     "11-02": {
       "views": 0,
       "unique_visitors": 0,
       "clones": 1,
       "unique_cloners": 1,
-      "timestamp": "2025-11-07T09:23:57.172735+00:00"
+      "timestamp": "2025-11-08T09:20:21.547217+00:00"
     },
     "11-04": {
       "views": 0,
       "unique_visitors": 0,
       "clones": 1,
       "unique_cloners": 1,
-      "timestamp": "2025-11-07T09:23:57.172747+00:00"
+      "timestamp": "2025-11-08T09:20:21.547229+00:00"
     }
   }
 }
