@@ -1,25 +1,11 @@
 {
   "2025": {
-    "11-15": {
+    "11-16": {
       "views": 0,
       "unique_visitors": 0,
-      "clones": 2,
-      "unique_cloners": 2,
-      "timestamp": "2025-11-15T09:20:21.789971+00:00"
-    },
-    "11-01": {
-      "views": 0,
-      "unique_visitors": 0,
-      "clones": 1,
-      "unique_cloners": 1,
-      "timestamp": "2025-11-15T09:20:22.662482+00:00"
-    },
-    "11-02": {
-      "views": 0,
-      "unique_visitors": 0,
-      "clones": 1,
-      "unique_cloners": 1,
-      "timestamp": "2025-11-15T09:20:22.662503+00:00"
+      "clones": 0,
+      "unique_cloners": 0,
+      "timestamp": "2025-11-16T09:21:28.095295+00:00"
     }
   }
 }
