@@ -1,67 +1,53 @@
 {
   "2025": {
-    "11-22": {
-      "views": 11,
-      "unique_visitors": 7,
+    "11-23": {
+      "views": 9,
+      "unique_visitors": 5,
       "clones": 8,
       "unique_cloners": 7,
-      "timestamp": "2025-11-22T09:21:23.171354+00:00"
-    },
-    "11-08": {
-      "views": 1,
-      "unique_visitors": 1,
-      "clones": 0,
-      "unique_cloners": 0,
-      "timestamp": "2025-11-22T09:21:23.966139+00:00"
-    },
-    "11-09": {
-      "views": 1,
-      "unique_visitors": 1,
-      "clones": 0,
-      "unique_cloners": 0,
-      "timestamp": "2025-11-22T09:21:23.966169+00:00"
+      "timestamp": "2025-11-23T09:21:36.563663+00:00"
     },
     "11-10": {
       "views": 4,
       "unique_visitors": 2,
       "clones": 3,
       "unique_cloners": 2,
-      "timestamp": "2025-11-22T09:21:23.966216+00:00"
+      "timestamp": "2025-11-23T09:21:37.406765+00:00"
     },
     "11-11": {
       "views": 4,
       "unique_visitors": 2,
       "clones": 0,
       "unique_cloners": 0,
-      "timestamp": "2025-11-22T09:21:23.966195+00:00"
+      "timestamp": "2025-11-23T09:21:37.406739+00:00"
     },
     "11-13": {
       "views": 1,
       "unique_visitors": 1,
       "clones": 1,
       "unique_cloners": 1,
-      "timestamp": "2025-11-22T09:21:23.966237+00:00"
+      "timestamp": "2025-11-23T09:21:37.406789+00:00"
     },
     "11-12": {
       "views": 0,
       "unique_visitors": 0,
       "clones": 1,
       "unique_cloners": 1,
-      "timestamp": "2025-11-22T09:21:23.966227+00:00"
+      "timestamp": "2025-11-23T09:21:37.406776+00:00"
     },
     "11-14": {
       "views": 0,
       "unique_visitors": 0,
       "clones": 1,
       "unique_cloners": 1,
-      "timestamp": "2025-11-22T09:21:23.966248+00:00"
+      "timestamp": "2025-11-23T09:21:37.406800+00:00"
     },
     "11-16": {
       "views": 0,
       "unique_visitors": 0,
       "clones": 2,
       "unique_cloners": 2,
-      "timestamp": "2025-11-22T09:21:23.966259+00:00"
+      "timestamp": "2025-11-23T09:21:37.406811+00:00"
     }
   }
 }
